@@ -1,2 +1,2 @@
 # GCHQ-mathematical-exams-solutions
-For math-based roles in GCHQ there are several exams for preparation online, here are their solution.
+Math-based roles in GCHQ have several online preparation exams, here are their solution.
